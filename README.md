@@ -1,18 +1,8 @@
 <h1 align="center">H! 👋, I'm Toni</h1>
 <h3 align="center">One terminal. Endless universes.</h3>
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://toni.algc.eu.org/" target="#00CBC6" title="My Projects">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/homeassistant.svg" width="24" alt="Home">
-  </a>
-  <a href="https://toni.algc.eu.org/about" target="_blank" title="About Me">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" width="24" alt="About">
-  </a>
-</div>
-
-
-
-- 📄 Know about my experiences [https://toni.algc.eu.org/about](https://toni.algc.eu.org/about)
+- 👨‍💻 All of my projects are available at [👨‍💻](https://toni.algc.eu.org/)
+- 📄 Know about my experiences [👨‍💻](https://toni.algc.eu.org/about)
 
 - ⚡ Fun fact **Typing in silence. Building in shadows.**
 
