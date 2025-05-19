@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toni-alg&label=Profile%20views&color=0e75b6&style=flat" alt="toni-alg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toni-alg" alt="toni-alg" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://toni.algc.eu.org/](https://toni.algc.eu.org/)
 
 - 📄 Know about my experiences [https://toni.algc.eu.org/about](https://toni.algc.eu.org/about)
@@ -16,7 +14,7 @@
 <a href="https://twitter.com/toni__alg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toni__alg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/toni-alg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toni-alg" height="30" width="40" /></a>
 <a href="https://instagram.com/toni_alg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toni_alg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/algc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="algc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/toni_alg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="toni_alg" height="30" width="40" /></a>
 <a href="https://discord.gg/A6rs6cn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="A6rs6cn" height="30" width="40" /></a>
 </p>
 
@@ -25,7 +23,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/tonialg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/tonialg" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toni-alg&show_icons=true&locale=en" alt="toni-alg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toni-alg&" alt="toni-alg" /></p>
