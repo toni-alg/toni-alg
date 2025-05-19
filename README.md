@@ -2,7 +2,7 @@
 <h3 align="center">One terminal. Endless universes.</h3>
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://toni.algc.eu.org/" target="_blank" title="My Projects">
+  <a href="https://toni.algc.eu.org/" target="#00CBC6" title="My Projects">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/homeassistant.svg" width="24" alt="Home">
   </a>
   <a href="https://toni.algc.eu.org/about" target="_blank" title="About Me">
