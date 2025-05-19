@@ -4,10 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toni-alg&label=Profile%20views&color=0e75b6&style=flat" alt="toni-alg" /> </p>
 
 <a href="https://toni.algc.eu.org/" target="_blank" title="My Projects">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
-    <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/>
-  </svg>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="24" alt="GitHub">
 </a>
+
 
 - 📄 Know about my experiences [https://toni.algc.eu.org/about](https://toni.algc.eu.org/about)
 
