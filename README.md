@@ -1,11 +1,15 @@
 <h1 align="center">H! 👋, I'm Toni</h1>
 <h3 align="center">One terminal. Endless universes.</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=toni-alg&label=Profile%20views&color=0e75b6&style=flat](https://toni.algc.eu.org/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg)" alt="toni-alg" /> </p>
+<div style="display: flex; gap: 10px;">
+  <a href="https://toni.algc.eu.org/" target="_blank" title="My Projects">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/homeassistant.svg" width="24" alt="Home">
+  </a>
+  <a href="https://toni.algc.eu.org/about" target="_blank" title="About Me">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" width="24" alt="About">
+  </a>
+</div>
 
-<a href="https://toni.algc.eu.org/" target="_blank" title="My Projects">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="24" alt="GitHub">
-</a>
 
 
 - 📄 Know about my experiences [https://toni.algc.eu.org/about](https://toni.algc.eu.org/about)
