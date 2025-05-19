@@ -2,7 +2,7 @@
 <h3 align="center">One terminal. Endless universes.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=toni-alg&label=Profile%20views&color=0e75b6&style=flat" alt="toni-alg" /> </p>
  <br> 
-<ul> <li>👨‍💻 All of my projects are available at <a href="https://toni.algc.eu.org/" target="_blank">toni.algc.eu.org</a></li> <li>📄 Know about my experiences <a href="https://toni.algc.eu.org/about" target="_blank">here</a></li> <li>⚡ Fun fact: <strong>Typing in silence. Building in shadows.</strong></li> </ul>
+<ul> <li>👨‍💻 All of my projects are available at <a href="https://zabi.eu.org/" target="_blank">toni.eu.org</a></li> <li>📄 Know about my experiences <a href="https://toni.algc.eu.org/about" target="_blank">here</a></li> <li>⚡ Fun fact: <strong>Typing in silence. Building in shadows.</strong></li> </ul>
 
 
 <h3 align="left">Connect with me:</h3>
