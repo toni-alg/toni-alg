@@ -19,3 +19,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/tonialg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/tonialg" /></a></p><br><br>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/toni-alg/toni-alg/8623e3b49e31752afb6016af49a50ea95e4daf39/toni2022.svg" alt="Snake animation" />
