@@ -1,7 +1,7 @@
 <h1 align="center">H! 👋, I'm Toni</h1>
 <h3 align="center">One terminal. Endless universes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toni-alg&label=Profile%20views&color=0e75b6&style=flat" alt="toni-alg" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=toni-alg&label=Profile%20views&color=0e75b6&style=flat](https://toni.algc.eu.org/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg)" alt="toni-alg" /> </p>
 
 <a href="https://toni.algc.eu.org/" target="_blank" title="My Projects">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="24" alt="GitHub">
