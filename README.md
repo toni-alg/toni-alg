@@ -1,15 +1,7 @@
 <h1 align="center">H! 👋, I'm Toni</h1>
 <h3 align="center">One terminal. Endless universes.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=toni-alg&label=Profile%20views&color=0e75b6&style=flat" alt="toni-alg" /> </p>
-<br>
-- 👨‍💻 All of my projects are available at [https://toni.algc.eu.org/](🔗)
-- 📄 Know about my experiences [[🔗](https://toni.algc.eu.org/about)](🔗)
-- ⚡ Fun fact **Typing in silence. Building in shadows.**
-
-
-<h1 style="text-align:center;">Hi! 👋 I'm Toni</h1>
-<h3 style="text-align:center;">One terminal. Endless universes.</h3> 
- <p style="text-align:center;"> <img src="https://komarev.com/ghpvc/?username=toni-alg&label=Profile%20views&color=0e75b6&style=flat" alt="toni-alg" /> </p> <br> 
+ <br> 
 <ul> <li>👨‍💻 All of my projects are available at <a href="https://toni.algc.eu.org/" target="_blank">toni.algc.eu.org</a></li> <li>📄 Know about my experiences <a href="https://toni.algc.eu.org/about" target="_blank">here</a></li> <li>⚡ Fun fact: <strong>Typing in silence. Building in shadows.</strong></li> </ul>
 
 
